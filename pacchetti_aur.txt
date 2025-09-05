@@ -1,0 +1,10 @@
+asdf-vm 0.18.0-1
+aurutils 20.5.3-1
+checkupdates-with-aur 1.0-1
+google-chrome 139.0.7258.154-1
+hyprshade 4.0.0-1
+python-pywalfox 2.7.4-1
+slack-desktop-wayland 4.45.64-1
+tuxedo-control-center-bin 2.1.18-1
+tuxedo-drivers-dkms 4.15.4-1
+visual-studio-code-bin 1.103.2-1
